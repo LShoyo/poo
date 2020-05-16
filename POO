@@ -1,0 +1,18 @@
+POO:
+Paradigma - reaproevitar códigos e conferir mais segurança
+Programação orientada a objetos é um paradigma de programação baseado no conceito de "objetos", que podem conter dados, também conhecidos como atributos (iremos entender melhor no futuro), e, na forma de procedimentos, também conhecidos como métodos (iremos entender melhor no futuro). Lembrando que utilizamos a programação orientada a objetos para representar algo do mundo real, tomem cuidado, nem sempre podemos levar ao pé da letra isso. Mas, podemos pensar que podemos tornar Objetos coisas que temos no mundo real, como um video game. Podemos com base nesse exemplo criar um objeto video game
+
+Caso queiram que o objeto seja algo genérico que dê para ser utilizado em mais de um cenário, criaremos uma classe, e essa classe irá dar a possibilidade de termos N objetos instanciados a partir de uma classe. Ou seja, traduzindo... 
+Poderemos ter uma classe Cachorro, e vários objetos Cachorro, um para representar o da raça Dálmata, outro para representar o da raça Pastor Alemão, outro para representar a raça Akita Inu, e assim vai...
+
+Estruturada x Orientada a Objetos
+Desempenho    Verosimilhança  
+Linear        Modular  
+Repetição     Reaproveitamento  
+
+
+geralmente a gente pode pensar que objeto é sempre algo que está relacionado a alguma classe, que por sua vez, a classe será algo que representa o mundo real, mas, de uma forma abstrata
+desde uma cadeira até mesmo um cachorro, uma pessoa, pode se tornar um objeto em programção orientada a objetos
+https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos
+
+
